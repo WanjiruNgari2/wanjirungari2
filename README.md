@@ -10,16 +10,24 @@ I shall however transfer this to python and beautifulSoup afterwards.
 
 ## Tools & Technologies
 
-Here are the tools I’m using or learning right now:
+Here are the tools I’m using and learning right now:
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-brightgreen?style=for-the-badge&logo=node.js)
-![Puppeteer](https://img.shields.io/badge/Automation-Puppeteer-blue?style=for-the-badge&logo=puppeteer)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-![OCI](https://img.shields.io/badge/Cloud-Oracle%20Cloud-red?style=for-the-badge&logo=oracle)
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)  
+![Express](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express)  
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)  
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)  
+![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)  
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
+![Vite](https://img.shields.io/badge/Vite-111?style=for-the-badge&logo=vite)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)  
+![Prisma](https://img.shields.io/badge/Prisma-111?style=for-the-badge&logo=prisma)  
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)  
+![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)  
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)  
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+
 
 
 ##  About Me
