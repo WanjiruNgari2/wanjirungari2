@@ -7,6 +7,21 @@ I shall however transfer this to python and beautifulSoup afterwards.
 
 ---
 
+
+## Tools & Technologies
+
+Here are the tools I’m using or learning right now:
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-brightgreen?style=for-the-badge&logo=node.js)
+![Puppeteer](https://img.shields.io/badge/Automation-Puppeteer-blue?style=for-the-badge&logo=puppeteer)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![OCI](https://img.shields.io/badge/Cloud-Oracle%20Cloud-red?style=for-the-badge&logo=oracle)
+
+---
+
+
 ##  About Me
 
 -  I’ve completed the **Oracle Cloud Infrastructure (OCI) Foundations** course, where I gained a strong grasp of cloud basics and automation concepts.  
@@ -40,18 +55,6 @@ If you have a project where I can contribute or learn alongside you, please reac
 
 ---
 
-## Tools & Technologies
-
-Here are the tools I’m using or learning right now:
-
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Runtime-Node.js-brightgreen?style=for-the-badge&logo=node.js)
-![Puppeteer](https://img.shields.io/badge/Automation-Puppeteer-blue?style=for-the-badge&logo=puppeteer)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-![OCI](https://img.shields.io/badge/Cloud-Oracle%20Cloud-red?style=for-the-badge&logo=oracle)
-
----
 
 ## Let’s Connect!
 
