@@ -17,24 +17,34 @@ I shall however transfer this to python and beautifulSoup afterwards.
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+
+---
 
 ---
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+
 
 ---
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ---
 
 ### **API / DevOps / Cloud**
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 
 ---
