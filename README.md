@@ -10,25 +10,37 @@ I shall however transfer this to python and beautifulSoup afterwards.
 
 ## Tools & Technologies
 
-Here are the tools I’m using and learning right now:
+### **Core**
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm)
 
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)  
-![Express](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express)  
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)  
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)  
-![npm](https://img.shields.io/badge/npm-000?style=for-the-badge&logo=npm)  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
-![Vite](https://img.shields.io/badge/Vite-111?style=for-the-badge&logo=vite)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)  
-![Prisma](https://img.shields.io/badge/Prisma-111?style=for-the-badge&logo=prisma)  
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)  
-![AWS](https://img.shields.io/badge/AWS-111?style=for-the-badge&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)  
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+### **Frontend**
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite)
 
+---
 
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=for-the-badge&logo=prisma)
+
+---
+
+### **API / DevOps / Cloud**
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+
+---
+
+### **Design**
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 
 ##  About Me
 
